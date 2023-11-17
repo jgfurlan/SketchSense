@@ -1,12 +1,12 @@
-body{
-    font-family: Consolas;
-    background-color: olive;
+body {
+  font-family: Consolas;
+  background-color: olive;
 }
 
-#content{
-    position:absolute;
-    top:50%;
-    left:50%;
-    transform:translate(-50%,-50%);
-    text-align: center;
+#content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
